@@ -1,0 +1,19 @@
+{
+  "name": "highway-alexa-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "jest-cli": "^19.0.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "dist": "rm ./build/dist.zip; cd src; npm i; zip -qr ../build/dist * -x \\*__mocks__\\*; cd .."
+  },
+  "author": "PiterFM",
+  "license": "MIT"
+}

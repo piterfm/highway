@@ -1,0 +1,8 @@
+{"intents": [
+    {"intent": "HighwayIntent", "slots": [{"name" : "Highway", "type": "AMAZON.NUMBER"}]},
+    {"intent": "AMAZON.RepeatIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}

@@ -1,0 +1,12 @@
+HighwayIntent about highway {Highway}
+HighwayIntent about {Highway}
+HighwayIntent to get information about highway {Highway}
+HighwayIntent to get info about highway {Highway}
+HighwayIntent to get information about {Highway}
+HighwayIntent to get info about {Highway}
+HighwayIntent what are conditions on highway {Highway}
+HighwayIntent what are conditions on {Highway}
+HighwayIntent tell me conditions on highway {Highway}
+HighwayIntent tell me conditions on {Highway}
+HighwayIntent tell me about highway {Highway}
+HighwayIntent tell me about {Highway}

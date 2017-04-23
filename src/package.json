@@ -1,0 +1,11 @@
+{
+  "name": "alexa-skill-highway-conditions-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for California Highway Conditions Alexa Skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  },
+  "author": "PiterFM",
+  "license": "MIT"
+}
